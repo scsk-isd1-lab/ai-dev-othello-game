@@ -1,2 +1,3 @@
 # ai-dev-othello-game
-シンプルなHTMLとJavaScriptで実装したオセロ（リバーシ）ゲーム
+
+> Initial repository created by agent
